@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GapsiTest</string>
+    <string name="search_chriteria">Introduce el criterio de búsqueda</string>
+    <string name="search_hint">Ejemplo: xbox, playstation, licuadora, etc.</string>
+    <string name="search">Buscar</string>
+    <string name="search_history">Búsquedas recientes</string>
+    <string name="loading_string">Cargando datos</string>
+    <string name="go">Ir</string>
+    <string name="error_saving_data">Error al guardar datos.</string>
+    <string name="results">Resultados de la búsqueda</string>
+    <string name="total">Total:</string>
+    <string name="error_request">Ocurrió un error al procesar tu solicitud, intenta cambiar el criterio de búsqueda e
+        intenta de nuevo.
+    </string>
+</resources>

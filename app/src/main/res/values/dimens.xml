@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="medium_loader">250dp</dimen>
+
+    <dimen name="btn_width">90dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="height_row">60dp</dimen>
+    <dimen name="product_title">18dp</dimen>
+</resources>
